@@ -1,7 +1,7 @@
 <!-- murlspace: a place for code -->
 <!-- GitHub's sidebar already shows your photo, name, status, bio and links, so this page is the right-hand side of the profile. -->
 
-<a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for repos"></a>
+<a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for code"></a>
 <img src="bars/nav.svg" width="100%" alt="Home | Browse | Repos | Mail | Blog | Friend Space | Music">
 
 <img src="bars/network.svg" width="100%" alt="Meryl is in your extended network">
