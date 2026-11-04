@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/KinnearM/fft"><img src="top8/fft.svg" width="120" alt="fft"><br>fft</a></td>
+<td align="center"><a href="https://github.com/KinnearM/fft"><img src="top8/fft.png" width="120" alt="fft"><br>fft</a></td>
 <td align="center"><a href="https://github.com/KinnearM/Orbital_GIF_Machine"><img src="top8/orbit_final.png" width="120" alt="Orbital GIF Machine"><br>Orbital_GIF_Machine</a></td>
 <td align="center"><a href="https://github.com/KinnearM/NR-data-reader"><img src="top8/reader.png" width="120" alt="NR data reader"><br>NR-data-reader</a></td>
 <td align="center"><a href="https://github.com/KinnearM/Advent_2025"><img src="top8/advent.svg" width="120" alt="Advent of Code 2025"><br>Advent_2025</a></td>
