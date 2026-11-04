@@ -16,13 +16,11 @@
 
 <img src="bars/about.svg" width="100%" alt="About Meryl">
 
-I'm a physicist who spent the last four years convincing computers to simulate black holes. I've just submitted my PhD in numerical relativity at Cardiff University, and I'm looking for my next adventure in simulation, modelling or data, ideally in Scotland's central belt.
-
-I like understanding how things work, usually by building a model and seeing what breaks. I'm more fluent in Python than English at this point, and I'm working on the "writing code other people can read" part (see Advent_2025).
+Write about me
 
 <img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">
 
-People hiring for simulation, modelling and data roles in Scotland's central belt, and anyone who wants to talk about black holes.
+maybe remove
 
 <img src="bars/friends.svg" width="100%" alt="Meryl's Friend Space">
 
