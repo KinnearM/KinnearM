@@ -12,7 +12,7 @@
 <details>
 <summary>Play: binary_black_hole_merger.gif</summary>
 <!-- Add your animation as media/orbit.gif -->
-<img src="orbit.gif" width="100%" alt="Animation of a binary black hole orbit and its gravitational-wave signal">
+<img src="orbit.gif" width="420" alt="Animation of a binary black hole orbit and its gravitational-wave signal">
 </details>
 
 <img src="bars/about.svg" width="100%" alt="About Meryl">
