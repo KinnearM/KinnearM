@@ -16,6 +16,7 @@
 
 <b>Meryl has 8 friends.</b>
 
+<div align="center">
 <table>
 <tr>
 <td align="center"><a href="https://github.com/KinnearM/fft"><img src="top8/fft.png" width="120" alt="fft"><br>fft</a></td>
@@ -30,6 +31,7 @@
 <td align="center"><a href="https://github.com/octocat"><img src="top8/tom.avif" width="120" alt="Tom"><br>Tom</a></td>
 </tr>
 </table>
+</div>div>
 
 <img src="bars/about.svg" width="100%" alt="About Meryl">
 
