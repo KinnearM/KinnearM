@@ -9,7 +9,7 @@
 
 <img src="bars/player.svg" width="100%" alt="Meryl's Player">
 
-<img src="media/orbit_player.gif" width="480" alt="Binary black hole merger animation in a retro media player">
+<img src="orbit_player.gif" width="480" alt="Binary black hole merger animation in a retro media player">
 
 <img src="bars/about.svg" width="100%" alt="About Meryl">
 
