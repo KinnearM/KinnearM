@@ -1,4 +1,4 @@
-<!-- murlspace: a place for repos -->
+<!-- murlspace: a place for code -->
 <!-- GitHub's sidebar already shows your photo, name, status, bio and links, so this page is the right-hand side of the profile. -->
 
 <a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for repos"></a>
