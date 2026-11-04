@@ -17,13 +17,9 @@
 
 <img src="bars/about.svg" width="100%" alt="About Meryl">
 
-I'm a physicist who spent the last four years convincing computers to simulate black holes. I've just submitted my PhD in numerical relativity at Cardiff University, and I'm looking for my next adventure in simulation, modelling or data, ideally in Scotland's central belt.
-
-I like understanding how things work, usually by building a model and seeing what breaks. I'm more fluent in Python than English at this point, and I'm working on the "writing code other people can read" part (see Advent_2025).
 
 <img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">
 
-People hiring for simulation, modelling and data roles in Scotland's central belt, and anyone who wants to talk about black holes.
 
 <a id="friend-space"></a>
 <img src="bars/friends.svg" width="100%" alt="Meryl's Friend Space">
@@ -40,7 +36,7 @@ People hiring for simulation, modelling and data roles in Scotland's central bel
 <tr>
 <td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24"><img src="top8/poster.svg" width="120" alt="Prize-winning GR24 poster"><br>GR24 poster 🏆</a></td>
 <td align="center"><a href="https://github.com/KinnearM/Honoursproject"><img src="top8/honours.svg" width="120" alt="Honours project"><br>Honoursproject</a></td>
-<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.svg" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
-<td align="center"><a href="https://github.com/KinnearM/KinnearM"><img src="top8/tom.svg" width="120" alt="Tom"><br>Tom</a></td>
+<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.pdf" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
+<td align="center"><a href="https://github.com/KinnearM/KinnearM"><img src="top8/tom.afiv" width="120" alt="Tom"><br>Tom</a></td>
 </tr>
 </table>
