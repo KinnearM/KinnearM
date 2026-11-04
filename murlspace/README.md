@@ -1,8 +1,9 @@
-<!-- murlspace: a place for repos -->
+<!-- murlspace: a place for code -->
 <!-- GitHub's sidebar already shows your photo, name, status, bio and links, so this page is the right-hand side of the profile. -->
+<!-- When your Krita logo is ready, save the whole masthead as banner.png in the bars folder and change bars/banner.svg to bars/banner.png below. -->
 
-<a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for repos"></a>
-<img src="bars/nav.svg" width="100%" alt="Home | Browse | Repos | Mail | Blog | Friend Space | Music">
+<a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for code"></a>
+<p><a href="https://github.com/KinnearM"><img src="nav/home.svg" width="16.6%" alt="Home"></a><a href="https://github.com/KinnearM?tab=repositories"><img src="nav/code.svg" width="16.6%" alt="Code"></a><a href="https://github.com/KinnearM?tab=stars"><img src="nav/favorites.svg" width="16.6%" alt="Favorites"></a><a href="#friend-space"><img src="nav/friends.svg" width="16.6%" alt="Friend Space"></a><a href="mailto:kinnearmeryl@gmail.com"><img src="nav/mail.svg" width="16.6%" alt="Mail"></a><a href="https://www.linkedin.com/in/meryl-kinnear"><img src="nav/linkedin.svg" width="16.6%" alt="LinkedIn"></a></p>
 
 <img src="bars/network.svg" width="100%" alt="Meryl is in your extended network">
 
@@ -24,6 +25,7 @@ I like understanding how things work, usually by building a model and seeing wha
 
 People hiring for simulation, modelling and data roles in Scotland's central belt, and anyone who wants to talk about black holes.
 
+<a id="friend-space"></a>
 <img src="bars/friends.svg" width="100%" alt="Meryl's Friend Space">
 
 <b>Meryl has 8 friends.</b>
@@ -39,6 +41,6 @@ People hiring for simulation, modelling and data roles in Scotland's central bel
 <td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24"><img src="top8/poster.svg" width="120" alt="Prize-winning GR24 poster"><br>GR24 poster 🏆</a></td>
 <td align="center"><a href="https://github.com/KinnearM/Honoursproject"><img src="top8/honours.svg" width="120" alt="Honours project"><br>Honoursproject</a></td>
 <td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.svg" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
-<td align="center"><a href="https://github.com/KinnearM"><img src="top8/tom.svg" width="120" alt="Tom"><br>Tom</a></td>
+<td align="center"><a href="https://github.com/KinnearM/KinnearM"><img src="top8/tom.svg" width="120" alt="Tom"><br>Tom</a></td>
 </tr>
 </table>
