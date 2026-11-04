@@ -40,7 +40,7 @@ People hiring for simulation, modelling and data roles in Scotland's central bel
 <tr>
 <td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24"><img src="top8/poster.svg" width="120" alt="Prize-winning GR24 poster"><br>GR24 poster 🏆</a></td>
 <td align="center"><a href="https://github.com/KinnearM/Honoursproject"><img src="top8/honours.svg" width="120" alt="Honours project"><br>Honoursproject</a></td>
-<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.svg" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
+<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.pdf" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
 <td align="center"><a href="https://github.com/KinnearM/KinnearM"><img src="top8/tom.avif" width="120" alt="Tom"><br>Tom</a></td>
 </tr>
 </table>
