@@ -11,12 +11,6 @@
 
 <img src="orbit_player.gif" width="480" alt="Binary black hole merger animation in a retro media player">
 
-<img src="bars/about.svg" width="100%" alt="About Meryl">
-
-
-<img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">
-
-
 <a id="friend-space"></a>
 <img src="bars/friends.svg" width="100%" alt="Meryl's Friend Space">
 
@@ -36,3 +30,8 @@
 <td align="center"><a href="https://github.com/octocat"><img src="top8/tom.avif" width="120" alt="Tom"><br>Tom</a></td>
 </tr>
 </table>
+
+<img src="bars/about.svg" width="100%" alt="About Meryl">
+
+
+<!---<img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">---!>
