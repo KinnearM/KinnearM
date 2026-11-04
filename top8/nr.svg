@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect x="0.5" y="0.5" width="119" height="119" fill="#E5ECF9" stroke="#6699CC"/>
+  <text font-family="Verdana, Geneva, Tahoma, Arial, sans-serif" font-size="12" font-weight="bold" fill="#003399" text-anchor="middle" dominant-baseline="middle"><tspan x="60" y="52">NR data</tspan><tspan x="60" y="68">reader</tspan></text>
+</svg>
