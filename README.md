@@ -19,16 +19,16 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><a href="https://github.com/KinnearM/fft"><img src="top8/fft.png" width="120" alt="fft"><br>fft</a></td>
-<td align="center"><a href="https://github.com/KinnearM/Orbital_GIF_Machine"><img src="top8/orbit_final.png" width="120" alt="Orbital GIF Machine"><br>Orbital_GIF_Machine</a></td>
-<td align="center"><a href="https://github.com/KinnearM/NR-data-reader"><img src="top8/reader.png" width="120" alt="NR data reader"><br>NR-data-reader</a></td>
-<td align="center"><a href="https://github.com/KinnearM/Advent_2025"><img src="top8/advent.svg" width="120" alt="Advent of Code 2025"><br>Advent_2025</a></td>
+<td align="center"><a href="https://github.com/KinnearM/fft">fft<br><img src="top8/fft.png" width="120" alt="fft"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/Orbital_GIF_Machine">Orbital_GIF_Machine<br><img src="top8/orbit_final.png" width="120" alt="Orbital GIF Machine"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/NR-data-reader">NR-data-reader<br><img src="top8/reader.png" width="120" alt="NR data reader"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/Advent_2025">Advent_2025<br><img src="top8/advent.svg" width="120" alt="Advent of Code 2025"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24"><img src="top8/poster.png" width="120" alt="Prize-winning GR24 poster"><br>GR24 poster 🏆</a></td>
-<td align="center"><a href="https://github.com/KinnearM/Honoursproject"><img src="top8/corner.png" width="120" alt="Honours project"><br>Honoursproject</a></td>
-<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams"><img src="top8/penrose.png" width="120" alt="Penrose diagrams"><br>penrose-diagrams</a></td>
-<td align="center"><a href="https://github.com/octocat"><img src="top8/tom.avif" width="120" alt="Tom"><br>Tom</a></td>
+<td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24">GR24 poster 🏆<br><img src="top8/poster.png" width="120" alt="Prize-winning GR24 poster"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/Honoursproject">Honoursproject<br><img src="top8/corner.png" width="120" alt="Honours project"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams">penrose-diagrams<br><img src="top8/penrose.png" width="120" alt="Penrose diagrams"></a></td>
+<td align="center"><a href="https://github.com/octocat">Tom<br><img src="top8/tom.avif" width="120" alt="Tom"></a></td>
 </tr>
 </table>
 </div>
@@ -36,4 +36,4 @@
 <img src="bars/about.svg" width="100%" alt="About Meryl">
 
 
-<!---<img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">---!>
+<!--<img src="bars/meet.svg" width="100%" alt="Who I'd like to meet">--!>
