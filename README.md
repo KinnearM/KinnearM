@@ -8,9 +8,9 @@
 <img src="bars/network.svg" width="100%" alt="Meryl is in your extended network">
 
 <img src="bars/player.svg" width="100%" alt="Meryl's Player">
-
+<p align="center">
 <img src="orbit_player.gif" width="480" alt="Binary black hole merger animation in a retro media player">
-
+</p>
 <a id="friend-space"></a>
 <img src="bars/friends.svg" width="100%" alt="Meryl's Friend Space">
 
