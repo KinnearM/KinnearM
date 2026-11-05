@@ -35,8 +35,8 @@ Profile views: <img src="https://komarev.com/ghpvc/?username=KinnearM&label=view
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/KinnearM/boosted-trumpet-initial-data-GR24">GR24 poster 🏆<br><img src="top8/poster.png" width="120" alt="Prize-winning GR24 poster"></a></td>
-<td align="center"><a href="https://github.com/KinnearM/Honoursproject">Honours<br><img src="top8/corner.png" width="120" alt="Honours project"></a></td>
-<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams">Penrose<br><img src="top8/penrose.png" width="120" alt="Penrose diagrams"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/Honoursproject">Honours Project<br><img src="top8/corner.png" width="120" alt="Honours project"></a></td>
+<td align="center"><a href="https://github.com/KinnearM/penrose-diagrams">Penrose Diagrams<br><img src="top8/penrose.png" width="120" alt="Penrose diagrams"></a></td>
 <td align="center"><a href="https://github.com/octocat">Tom<br><img src="top8/tom.avif" width="120" alt="Tom"></a></td>
 </tr>
 </table>
