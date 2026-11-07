@@ -1,4 +1,5 @@
 <!-- murlspace: a place for code -->
+<a href="https://github.com/KinnearM"><img src="bars/banner.svg" width="100%" alt="murlspace: a place for code"></a><br>
 
 <a href="https://github.com/KinnearM"><img src="nav/home.svg" width="14.28%" alt="Home"></a><a href="https://github.com/KinnearM?tab=repositories"><img src="nav/code.svg" width="14.28%" alt="Code"></a><a href="https://github.com/KinnearM?tab=stars"><img src="nav/favorites.svg" width="14.28%" alt="Favorites"></a><a href="#friend-space"><img src="nav/friends.svg" width="14.28%" alt="Friend Space"></a><a href="https://www.uknumericalrelativity.org/ccp-uknr-news#h.n2f3en6umvti"><img src="nav/groups.svg" width="14.28%" alt="Groups"></a><a href="mailto:kinnearmeryl@gmail.com"><img src="nav/mail.svg" width="14.28%" alt="Mail"></a><a href="https://www.linkedin.com/in/meryl-kinnear"><img src="nav/linkedin.svg" width="14.28%" alt="LinkedIn"></a>
 
