@@ -9,12 +9,12 @@
 <img src="bars/blurbs_half.svg" width="50%" alt="Meryl's Blurbs">
 
 <img src="bars/about_label.svg" width="50%" alt="About me:"><br>
+I'm Meryl, I'm based in Scotland and I'm just about to graduate with a PhD in numerical relativity!
 
-
-
+I've collected just a few fun projects here to document my coding development. There's also a few examples of creative projects and technical writing thrown in too. I'm a big fan of finding creative ways to communicate ideas and an even bigger fan of the problem solving that is required to bring those ideas to life. That seems to be the theme here.
 
 <img src="bars/meet_label.svg" width="50%" alt="Who I'd like to meet:"><br>
-
+Anybody who wants to talk about black holes... 
 
 Profile views: <img src="https://komarev.com/ghpvc/?username=KinnearM&label=views&color=6699cc&style=flat-square" alt="Profile views">
 
